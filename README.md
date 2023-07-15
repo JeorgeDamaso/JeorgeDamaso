@@ -4,6 +4,6 @@
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=JeorgeDamaso&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  width="40" height="40"/>
           
           
